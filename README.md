@@ -1,6 +1,6 @@
 # 100Calc Directory 🧮
 
-Welcome to the official repository for [100Calc.com](https://100calc.com/). 
+Welcome to the official repository for 100Calc. 
 
 100Calc is a lightweight, ad-free utility platform featuring over 100 instant calculators designed to speed up everyday planning, project management, and problem-solving. Instead of switching between multiple single-purpose sites, professionals and DIYers use this directory for instant mathematical conversions, financial planning, and health metrics.
 
@@ -20,5 +20,4 @@ Our directory covers a wide range of everyday and professional utilities:
 * **Instant Refresh:** Results update in real-time as inputs are adjusted.
 * **No Sign-ups:** 100% free to use without creating an account.
 
-🌐 **Access the full directory here:** [https://100calc.com/](https://100calc.com/)# 100calc-directory
-A comprehensive directory of 100+ free online calculators for finance, health, construction, and everyday math. Visit https://100calc.com/
+🌐 **Access the full directory here:** [https://100calc.com/](https://100calc.com/)
