@@ -11,6 +11,7 @@ Our directory covers a wide range of everyday and professional utilities:
 * **Finance & Business:** Marginal Revenue, ROI, Cost of Equity (CAPM), and Annual Contract Value (ACV).
 * **Health & Fitness:** Grams to Calories, Pregnancy Chance, and Keto-Mojo GKI.
 * **Construction & Home:** Pipe Weight, Paver Sand, Pond Volume, and Flooring estimates.
+* **Concrete Planning:** [Concrete Calculator Hub](https://concreteestimatorhub.com/) for concrete volume, bag coverage, cost, and ready-mix vs bags estimates.
 * **Time & Date:** Diamond Birthday, Platinum Birthday, and routine time tracking.
 * **Metal & Gold:** Live Gold Price Widgets, 14K/18K/22K Gold Price, and Chain Weight conversions.
 * **Math & Education:** Pentagon, Hexagon, and Right Triangle calculators.
